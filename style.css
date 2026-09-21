@@ -143,8 +143,8 @@ h3.sec{
   margin:0 0 6px;
 }
 h4.sub{
-  font-family:var(--mono);font-weight:700;
-  font-size:15 px;text-transform:uppercase;letter-spacing:.16em;
+  font-family:var(--serif);font-weight:700;
+  font-size:20 px;text-transform:uppercase;letter-spacing:.16em;
   color:var(--spruce);
   margin:34px 0 0;
 }
